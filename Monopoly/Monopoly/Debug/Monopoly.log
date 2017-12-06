@@ -1,0 +1,13 @@
+﻿  Space.cpp
+  Railroad.cpp
+c:\users\tlafl\source\repos\monopoly\monopoly\railroad.cpp(6): error C2512: 'Property': no appropriate default constructor available
+  c:\users\tlafl\source\repos\monopoly\monopoly\property.h(8): note: see declaration of 'Property'
+  Property.cpp
+  Player.cpp
+c:\users\tlafl\source\repos\monopoly\monopoly\player.cpp(60): error C2027: use of undefined type 'Space'
+  c:\users\tlafl\source\repos\monopoly\monopoly\player.h(36): note: see declaration of 'Space'
+  Game.cpp
+c:\users\tlafl\source\repos\monopoly\monopoly\game.cpp(6): error C2512: 'Player': no appropriate default constructor available
+  c:\users\tlafl\source\repos\monopoly\monopoly\space.h(6): note: see declaration of 'Player'
+  Generating Code...
+c:\users\tlafl\source\repos\monopoly\monopoly\space.cpp(50): error C4716: 'Space::isOwned': must return a value
